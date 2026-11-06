@@ -1,35 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 34 276 250" width="276" height="250">
-  <!-- Пам'ятник-погруддя з квітами -->
-  <g stroke="#000" stroke-width="2" stroke-linejoin="round">
-    <!-- земля -->
-    <path fill="#5c9a3f" d="M16 262 C90 250 210 250 284 262 L284 280 L16 280Z"/>
-    <!-- постамент -->
-    <rect x="88" y="244" width="124" height="18" fill="#8e9aa8"/>
-    <rect x="104" y="150" width="92" height="96" fill="#b9b2a6"/>
-    <rect x="96" y="142" width="108" height="12" fill="#8e9aa8"/>
-    <rect x="116" y="178" width="68" height="38" fill="#f8f4ea"/>
-    <!-- погруддя -->
-    <path fill="#6b5b3e" d="M100 142 C100 118 120 106 150 106 C180 106 200 118 200 142Z"/>
-    <path fill="#6b5b3e" d="M136 110 L136 96 L164 96 L164 110Z"/>
-    <ellipse cx="150" cy="70" rx="26" ry="32" fill="#6b5b3e"/>
-    <!-- волосся і вуса -->
-    <path fill="#4a3e2a" d="M124 66 C122 38 178 36 176 66 C170 52 160 46 150 48 C138 46 128 54 124 66Z"/>
-    <path fill="none" stroke-width="2" d="M136 64 C140 61 144 61 147 64 M153 64 C156 61 160 61 164 64"/>
-    <path fill="#4a3e2a" d="M136 82 C142 78 158 78 164 82 C160 88 140 88 136 82Z"/>
-    <path fill="#4a3e2a" d="M140 86 C142 100 158 100 160 86Z"/>
-    <!-- комір вишиванки -->
-    <path fill="#8C2C56" d="M138 108 L150 128 L162 108Z"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="99.36pt"
+    height="90pt"
+    viewBox="0 0 99.36 90">
+<defs/>
+<path id="shape0" transform="matrix(0.36 0 0 0.36 1.44 78.84)" fill="#5c9a3f" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 9C74 -3 194 -3 268 9L268 27L0 27Z" sodipodi:nodetypes="ccccc"/><rect id="shape1" transform="matrix(0.36 0 0 0.36 27.36 75.6000000000001)" fill="#8e9aa8" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="124" height="18"/><rect id="shape2" transform="matrix(0.36 0 0 0.36 33.12 41.76)" fill="#b9b2a6" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="92" height="96"/><rect id="shape3" transform="matrix(0.36 0 0 0.36 30.24 38.88)" fill="#8e9aa8" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="108" height="12"/><rect id="shape4" transform="matrix(0.36 0 0 0.36 37.44 51.84)" fill="#f8f4ea" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="68" height="38"/><path id="shape5" transform="matrix(0.36 0 0 0.36 31.68 25.92)" fill="#6b5b3e" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 36C0 12 20 0 50 0C80 0 100 12 100 36Z" sodipodi:nodetypes="cccc"/><path id="shape6" transform="matrix(0.36 0 0 0.36 44.64 22.32)" fill="#6b5b3e" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 14L0 0L28 0L28 14Z" sodipodi:nodetypes="ccccc"/><ellipse id="textPath0" transform="matrix(0.36 0 0 0.36 40.32 3.91499999999997)" rx="26" ry="28.5625" cx="26" cy="28.5625" fill="#6b5b3e" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round"/><path id="shape7" transform="matrix(0.36 0 0 0.36 40.301159545239 3.68767379576585)" fill="#4a3e2a" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0.0523346 21.7565C-1.94767 -6.24354 54.0523 -8.24354 52.0523 21.7565C46.0523 7.75646 36.0523 1.75646 26.0523 3.75646C14.0523 1.75646 4.05233 9.75646 0.0523346 21.7565Z" sodipodi:nodetypes="cccc"/><path id="shape8" transform="matrix(0.36 0 0 0.36 44.64 9.99000000000002)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 2.25C4 -0.75 8 -0.75 11 2.25M17 2.25C20 -0.75 24 -0.75 28 2.25" sodipodi:nodetypes="cccc"/><path id="shape9" transform="matrix(0.36 0 0 0.36 44.64 16.2)" fill="#4a3e2a" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 3C6 -1 22 -1 28 3C24 9 4 9 0 3Z" sodipodi:nodetypes="ccc"/><path id="shape10" transform="matrix(0.36 0 0 0.36 46.08 18.72)" fill="#4a3e2a" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 0C2 14 18 14 20 0Z" sodipodi:nodetypes="ccc"/><text id="shape11" krita:textVersion="3" transform="matrix(0.36 0 0 0.36 -4.32 -12.24)" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" x="150" y="194" text-anchor="middle" style="font-family: Georgia,serif;font-size: 11;">М. Д.</text><text id="shape12" krita:textVersion="3" transform="matrix(0.36 0 0 0.36 -4.32 -12.24)" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" x="150" y="208" text-anchor="middle" style="font-family: Georgia,serif;font-size: 11;">Леонтович</text><g id="group0" transform="matrix(0.36 0 0 0.36 -4.32 -12.24)" fill="none">
+  <path id="shape13" transform="translate(60, 226)" fill="#000000" stroke="#3e6e2a" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 36L2 0" sodipodi:nodetypes="cc"/>
+  <path id="shape14" transform="translate(76, 234)" fill="#000000" stroke="#3e6e2a" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 28L4 0" sodipodi:nodetypes="cc"/>
+  <path id="shape15" transform="translate(226, 228)" fill="#000000" stroke="#3e6e2a" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M2 34L0 0" sodipodi:nodetypes="cc"/>
+  <path id="shape16" transform="translate(240, 236)" fill="#000000" stroke="#3e6e2a" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M4 26L0 0" sodipodi:nodetypes="cc"/>
+  <g id="group1" fill="none">
+   <circle id="shape17" transform="translate(53, 213)" r="9" cx="9" cy="9" fill="#d00000" stroke="#000000" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2"/>
+   <circle id="shape18" transform="translate(217, 215)" r="9" cx="9" cy="9" fill="#d00000" stroke="#000000" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2"/>
   </g>
-  <text x="150" y="194" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#203B60">М. Д.</text>
-  <text x="150" y="208" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#203B60">Леонтович</text>
-  <!-- квіти -->
-  <g stroke="#000" stroke-width="1.5">
-    <line x1="60" y1="262" x2="62" y2="226" stroke="#3e6e2a" stroke-width="3"/>
-    <line x1="76" y1="262" x2="80" y2="234" stroke="#3e6e2a" stroke-width="3"/>
-    <line x1="228" y1="262" x2="226" y2="228" stroke="#3e6e2a" stroke-width="3"/>
-    <line x1="244" y1="262" x2="240" y2="236" stroke="#3e6e2a" stroke-width="3"/>
-    <g fill="#d00000"><circle cx="62" cy="222" r="9"/><circle cx="226" cy="224" r="9"/></g>
-    <g fill="#e2b13c"><circle cx="80" cy="230" r="8"/><circle cx="240" cy="232" r="8"/></g>
-    <g fill="#2e2a26"><circle cx="62" cy="222" r="3"/><circle cx="226" cy="224" r="3"/></g>
+  <g id="group2" fill="none">
+   <circle id="shape19" transform="translate(72, 222)" r="8" cx="8" cy="8" fill="#e2b13c" stroke="#000000" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2"/>
+   <circle id="shape20" transform="translate(232, 224)" r="8" cx="8" cy="8" fill="#e2b13c" stroke="#000000" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2"/>
   </g>
+  <g id="group3" fill="none">
+   <circle id="shape21" transform="translate(59, 219)" r="3" cx="3" cy="3" fill="#2e2a26" stroke="#000000" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2"/>
+   <circle id="shape22" transform="translate(223, 221)" r="3" cx="3" cy="3" fill="#2e2a26" stroke="#000000" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2"/>
+  </g>
+ </g>
 </svg>

@@ -1,51 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="27 12 267 268" width="267" height="268">
-  <!-- Нотний рукопис з пером і чорнильницею -->
-  <g stroke="#000" stroke-width="2" stroke-linejoin="round">
-    <g transform="rotate(-6 150 150)">
-      <rect x="44" y="34" width="196" height="232" fill="#f3e3b5"/>
-      <rect x="52" y="26" width="196" height="232" fill="#fff6e3"/>
-    </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="192.24pt"
+    height="192.96pt"
+    viewBox="0 0 192.24 192.96">
+<defs/>
+<g id="group0" transform="matrix(0.72 0 0 0.72 -19.44 -8.10000000000001)" fill="none">
+  <g id="group1" transform="matrix(0.994521895368273 -0.104528463267653 0.104528463267653 0.994521895368273 -14.857553795389 16.500985184907)" fill="none">
+   <rect id="shape0" transform="translate(44, 34)" fill="#f3e3b5" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="196" height="232"/>
+   <rect id="shape1" transform="translate(52, 26)" fill="#fff6e3" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="196" height="232"/>
   </g>
-  <g transform="rotate(-6 150 150)">
-    <text x="150" y="62" font-family="Georgia, serif" font-style="italic" font-size="20" text-anchor="middle" fill="#203B60">Щедрик</text>
-    <g stroke="#6b6157" stroke-width="1.2">
-      <line x1="66" y1="84" x2="236" y2="84"/><line x1="66" y1="91" x2="236" y2="91"/><line x1="66" y1="98" x2="236" y2="98"/><line x1="66" y1="105" x2="236" y2="105"/><line x1="66" y1="112" x2="236" y2="112"/>
-      <line x1="66" y1="140" x2="236" y2="140"/><line x1="66" y1="147" x2="236" y2="147"/><line x1="66" y1="154" x2="236" y2="154"/><line x1="66" y1="161" x2="236" y2="161"/><line x1="66" y1="168" x2="236" y2="168"/>
-      <line x1="66" y1="196" x2="236" y2="196"/><line x1="66" y1="203" x2="236" y2="203"/><line x1="66" y1="210" x2="236" y2="210"/><line x1="66" y1="217" x2="236" y2="217"/><line x1="66" y1="224" x2="236" y2="224"/>
-    </g>
-    <!-- скрипковий ключ (спрощено) -->
-    <g fill="none" stroke="#8C2C56" stroke-width="2">
-      <path d="M78 118 C70 110 84 100 82 90 C80 78 74 80 76 94 C78 108 70 110 72 104"/>
-      <path d="M78 174 C70 166 84 156 82 146 C80 134 74 136 76 150 C78 164 70 166 72 160"/>
-    </g>
-    <!-- ноти: мотив з чотирьох звуків -->
-    <g fill="#203B60">
-      <ellipse cx="104" cy="98" rx="5" ry="3.6"/><ellipse cx="124" cy="101.5" rx="5" ry="3.6"/>
-      <ellipse cx="144" cy="98" rx="5" ry="3.6"/><ellipse cx="164" cy="105" rx="5" ry="3.6"/>
-      <ellipse cx="190" cy="98" rx="5" ry="3.6"/><ellipse cx="210" cy="101.5" rx="5" ry="3.6"/>
-      <ellipse cx="104" cy="154" rx="5" ry="3.6"/><ellipse cx="124" cy="157.5" rx="5" ry="3.6"/>
-      <ellipse cx="144" cy="154" rx="5" ry="3.6"/><ellipse cx="164" cy="161" rx="5" ry="3.6"/>
-      <ellipse cx="190" cy="150.5" rx="5" ry="3.6"/><ellipse cx="210" cy="147" rx="5" ry="3.6"/>
-      <ellipse cx="104" cy="210" rx="5" ry="3.6"/><ellipse cx="130" cy="206.5" rx="5" ry="3.6"/>
-      <ellipse cx="156" cy="203" rx="5" ry="3.6"/>
-    </g>
-    <g stroke="#203B60" stroke-width="1.6">
-      <line x1="109" y1="98" x2="109" y2="76"/><line x1="129" y1="101" x2="129" y2="76"/><line x1="149" y1="98" x2="149" y2="76"/><line x1="169" y1="105" x2="169" y2="76"/>
-      <line x1="195" y1="98" x2="195" y2="76"/><line x1="215" y1="101" x2="215" y2="76"/>
-      <line x1="109" y1="154" x2="109" y2="132"/><line x1="129" y1="157" x2="129" y2="132"/><line x1="149" y1="154" x2="149" y2="132"/><line x1="169" y1="161" x2="169" y2="132"/>
-      <line x1="195" y1="150" x2="195" y2="128"/><line x1="215" y1="147" x2="215" y2="128"/>
-      <line x1="109" y1="210" x2="109" y2="188"/><line x1="135" y1="206" x2="135" y2="188"/><line x1="161" y1="203" x2="161" y2="188"/>
-      <line x1="140" y1="76" x2="170" y2="76" stroke-width="3"/><line x1="140" y1="132" x2="170" y2="132" stroke-width="3"/>
-      <line x1="195" y1="76" x2="215" y2="76" stroke-width="3"/><line x1="195" y1="128" x2="215" y2="128" stroke-width="3"/>
-    </g>
-  </g>
-  <!-- чорнильниця -->
-  <g stroke="#000" stroke-width="2" stroke-linejoin="round">
-    <path fill="#203B60" d="M218 268 L222 236 L262 236 L266 268Z"/>
-    <rect x="230" y="226" width="24" height="12" fill="#2e2a26"/>
-    <!-- перо -->
-    <path fill="#f8f4ea" d="M240 228 C246 180 270 140 290 118 C284 150 270 190 246 226Z"/>
-    <path fill="none" d="M243 226 C258 188 274 150 288 122"/>
-    <line x1="240" y1="228" x2="236" y2="244" stroke-width="2.5"/>
-  </g>
+ </g><text id="shape2" krita:textVersion="3" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 -30.1374387326801 3.24070933313306)" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" x="150" y="62" text-anchor="middle" style="font-family: Georgia,serif;font-size: 20;font-style: italic;">Щедрик</text><g id="group2" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 -30.1374387326801 3.24070933313306)" fill="none">
+  <path id="shape3" transform="translate(66, 84)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape4" transform="translate(66, 91)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape5" transform="translate(66, 98)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape6" transform="translate(66, 105)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape7" transform="translate(66, 112)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape8" transform="translate(66, 140)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape9" transform="translate(66, 147)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape10" transform="translate(66, 154)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape11" transform="translate(66, 161)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape12" transform="translate(66, 168)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape13" transform="translate(66, 196)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape14" transform="translate(66, 203)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape15" transform="translate(66, 210)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape16" transform="translate(66, 217)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+  <path id="shape17" transform="translate(66, 224)" fill="#000000" stroke="#6b6157" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L170 0" sodipodi:nodetypes="cc"/>
+ </g><g id="group3" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 -30.1374387326801 3.24070933313306)" fill="none">
+  <ellipse id="shape18" transform="translate(99, 94.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape19" transform="translate(119, 97.9)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape20" transform="translate(139, 94.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape21" transform="translate(159, 101.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape22" transform="translate(185, 94.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape23" transform="translate(205, 97.9)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape24" transform="translate(99, 150.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape25" transform="translate(119, 153.9)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape26" transform="translate(139, 150.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape27" transform="translate(159, 157.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape28" transform="translate(185, 146.9)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape29" transform="translate(205, 143.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape30" transform="translate(99, 206.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape31" transform="translate(125, 202.9)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+  <ellipse id="shape32" transform="translate(151, 199.4)" rx="5" ry="3.6" cx="5" cy="3.6" fill="#203b60" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+ </g><path id="shape33" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 53.632437125828 49.4575536504395)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 22L0 0" sodipodi:nodetypes="cc"/><path id="shape34" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 67.9535524191311 47.9523437793853)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 25L0 0" sodipodi:nodetypes="cc"/><path id="shape35" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 82.2746677124343 46.4471339083311)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 22L0 0" sodipodi:nodetypes="cc"/><path id="shape36" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 96.5957830057374 44.9419240372769)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 29L0 0" sodipodi:nodetypes="cc"/><path id="shape37" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 115.213232887031 42.9851512049064)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 22L0 0" sodipodi:nodetypes="cc"/><path id="shape38" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 129.534348180335 41.4799413338522)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 25L0 0" sodipodi:nodetypes="cc"/><path id="shape39" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 57.8470247647798 89.5566764716883)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 22L0 0" sodipodi:nodetypes="cc"/><path id="shape40" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 72.1681400580829 88.0514666006341)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 25L0 0" sodipodi:nodetypes="cc"/><path id="shape41" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 86.4892553513861 86.5462567295799)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 22L0 0" sodipodi:nodetypes="cc"/><path id="shape42" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 100.810370644689 85.0410468585257)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 29L0 0" sodipodi:nodetypes="cc"/><path id="shape43" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 119.126778551772 80.2200509674946)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 22L0 0" sodipodi:nodetypes="cc"/><path id="shape44" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 133.447893845076 78.7148410964404)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 19L0 0" sodipodi:nodetypes="cc"/><path id="shape45" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 62.0616124037316 129.655799292937)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 22L0 0" sodipodi:nodetypes="cc"/><path id="shape46" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 80.1570750455684 122.732649623917)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 24.9357L0 0" sodipodi:nodetypes="cc"/><path id="shape47" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 98.6656435727866 119.739939906598)" fill="#000000" stroke="#203b60" stroke-width="1.6" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 23.3825L0 0" sodipodi:nodetypes="cc"/><path id="shape48" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 81.6425977868465 46.5135671344944)" fill="#000000" stroke="#203b60" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L21.8827 0" sodipodi:nodetypes="cc"/><path id="shape49" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 86.0807916637332 86.6081067554523)" fill="#000000" stroke="#203b60" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L21.8218 0" sodipodi:nodetypes="cc"/><path id="shape50" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 115.213232887031 42.9851512049064)" fill="#000000" stroke="#203b60" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L20 0" sodipodi:nodetypes="cc"/><path id="shape51" transform="matrix(0.716055764665157 -0.0752604935527105 0.0752604935527105 0.716055764665157 119.126778551772 80.2200509674946)" fill="#000000" stroke="#203b60" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="2" d="M0 0L20 0" sodipodi:nodetypes="cc"/><g id="group4" transform="matrix(0.72 0 0 0.72 -19.44 -8.64)" fill="none">
+  <path id="shape52" transform="translate(218, 236)" fill="#203b60" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 32L4 0L44 0L48 32Z" sodipodi:nodetypes="ccccc"/>
+  <rect id="shape53" transform="translate(230, 226)" fill="#2e2a26" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="24" height="12"/>
+  <path id="shape54" transform="translate(240, 118)" fill="#f8f4ea" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 110C6 62 30 22 50 0C44 32 30 72 6 108Z" sodipodi:nodetypes="cccc"/>
+  <path id="shape55" transform="translate(243, 122)" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 104C15 66 31 28 45 0" sodipodi:nodetypes="cc"/>
+  <path id="shape56" transform="translate(236, 228)" fill="#000000" stroke="#000000" stroke-width="2.5" stroke-linecap="butt" stroke-linejoin="round" d="M4 0L0 16" sodipodi:nodetypes="cc"/>
+ </g><path id="shape57" transform="translate(27.0332360515995, 48.6476444561039)" fill="none" stroke="#8b2d55" stroke-width="1.512" stroke-linecap="square" stroke-linejoin="bevel" d="M6.44676 24.0724C9.59347 14.6322 21.4976 25.1331 11.1268 29.7424C-17.5756 42.499 19.8621 -2.74882 6.89676 0.132356C5.3384 0.478659 4.23393 1.74249 4.46676 3.37236C5.94113 13.6929 12.3027 24.0911 11.3968 34.9624C11.1038 38.4782 10.233 40.703 6.35676 40.2724C-2.09121 39.3337 6.26676 31.6291 6.26676 38.4724" sodipodi:nodetypes="ccccccc"/><path id="shape01" transform="matrix(0.977426586210087 0.211275338290335 -0.211275338290335 0.977426586210087 39.1695402957885 86.0457239933543)" fill="none" stroke="#8b2d55" stroke-width="1.512" stroke-linecap="square" stroke-linejoin="bevel" d="M6.44674 24.0724C9.59345 14.6322 21.4976 25.1331 11.1268 29.7424C-17.5756 42.499 19.8621 -2.74882 6.89674 0.132355C5.33838 0.478658 4.23391 1.74249 4.46674 3.37236C5.94111 13.6929 12.3027 24.0911 11.3968 34.9624C11.1038 38.4782 10.233 40.703 6.35674 40.2724C-2.09123 39.3337 6.26674 31.6291 6.26674 38.4724" sodipodi:nodetypes="ccccccc"/><path id="shape02" transform="matrix(0.999645278406108 0.0266330126043061 -0.0266330126043061 0.999645278406108 37.8183688373955 132.106265833899)" fill="none" stroke="#8b2d55" stroke-width="1.512" stroke-linecap="square" stroke-linejoin="bevel" d="M6.44674 20.5209C9.59345 12.4735 21.4976 21.4251 11.1268 25.3544C-17.5756 36.229 19.8621 -2.34328 6.89674 0.112828C5.33838 0.40804 4.23391 1.48541 4.46674 2.87482C5.94111 11.6727 12.3027 20.5368 11.3968 29.8043C11.1038 32.8014 10.233 34.6979 6.35674 34.3309C-2.09123 33.5306 6.26674 26.9627 6.26674 32.7964" sodipodi:nodetypes="ccccccc"/>
 </svg>

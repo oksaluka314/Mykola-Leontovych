@@ -1,46 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="16 34 268 266" width="268" height="266">
-  <!-- Будівля духовної семінарії з книгою -->
-  <g stroke="#000" stroke-width="2" stroke-linejoin="round">
-    <!-- земля -->
-    <path fill="#5c9a3f" d="M20 236 C90 226 210 226 280 236 L280 250 L20 250Z"/>
-    <!-- бічні крила -->
-    <rect x="34" y="132" width="232" height="100" fill="#f3e3b5"/>
-    <rect x="30" y="124" width="240" height="10" fill="#b9b2a6"/>
-    <!-- центральний портик -->
-    <rect x="104" y="112" width="92" height="120" fill="#f8f4ea"/>
-    <path fill="#f8f4ea" d="M96 114 L150 78 L204 114Z"/>
-    <circle cx="150" cy="100" r="8" fill="#bfe3f2"/>
-    <!-- баня з хрестом -->
-    <path fill="#3e6e2a" d="M132 80 C132 56 168 56 168 80Z"/>
-    <rect x="146" y="38" width="8" height="20" fill="#e2b13c" stroke-width="1.5"/>
-    <rect x="140" y="44" width="20" height="5" fill="#e2b13c" stroke-width="1.5"/>
-    <!-- колони -->
-    <g fill="#ffffff">
-      <rect x="112" y="118" width="10" height="110"/>
-      <rect x="132" y="118" width="10" height="110"/>
-      <rect x="158" y="118" width="10" height="110"/>
-      <rect x="178" y="118" width="10" height="110"/>
-    </g>
-    <!-- двері -->
-    <path fill="#7a4e2d" d="M143 232 L143 196 C143 186 157 186 157 196 L157 232Z"/>
-    <!-- вікна -->
-    <g fill="#bfe3f2">
-      <rect x="46" y="146" width="16" height="24"/><rect x="72" y="146" width="16" height="24"/>
-      <rect x="46" y="190" width="16" height="24"/><rect x="72" y="190" width="16" height="24"/>
-      <rect x="212" y="146" width="16" height="24"/><rect x="238" y="146" width="16" height="24"/>
-      <rect x="212" y="190" width="16" height="24"/><rect x="238" y="190" width="16" height="24"/>
-    </g>
-    <!-- сходи -->
-    <rect x="100" y="230" width="100" height="6" fill="#b9b2a6"/>
-  </g>
-  <!-- книга -->
-  <g stroke="#000" stroke-width="2" stroke-linejoin="round">
-    <path fill="#f8f4ea" d="M90 262 C110 254 136 254 150 264 C164 254 190 254 210 262 L210 290 C190 282 164 282 150 292 C136 282 110 282 90 290Z"/>
-    <line x1="150" y1="264" x2="150" y2="292"/>
-    <path fill="#203B60" d="M86 266 L86 294 C108 286 136 286 150 296 C164 286 192 286 214 294 L214 266 L210 266 L210 290 C190 282 164 282 150 292 C136 282 110 282 90 290 L90 266Z"/>
-  </g>
-  <g stroke="#8C2C56" stroke-width="1.5">
-    <line x1="100" y1="266" x2="140" y2="268"/><line x1="100" y1="274" x2="140" y2="276"/>
-    <line x1="160" y1="268" x2="200" y2="266"/><line x1="160" y1="276" x2="200" y2="274"/>
-  </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="192.96pt"
+    height="191.52pt"
+    viewBox="0 0 192.96 191.52">
+<defs/>
+<path id="shape0" transform="matrix(0.72 0 0 0.72 83.52 20.16)" fill="#3e6e2a" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 28.25C0 -9.41667 36 -9.41667 36 28.25Z" sodipodi:nodetypes="ccc"/><path id="shape1" transform="matrix(0.72 0 0 0.72 2.88 140.04)" fill="#5c9a3f" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 7.5C70 -2.5 190 -2.5 260 7.5L260 21.5L0 21.5Z" sodipodi:nodetypes="ccccc"/><rect id="shape2" transform="matrix(0.72 0 0 0.72 12.96 70.56)" fill="#f3e3b5" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="232" height="100"/><rect id="shape3" transform="matrix(0.72 0 0 0.72 10.08 64.8)" fill="#b9b2a6" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="240" height="10"/><rect id="shape4" transform="matrix(0.72 0 0 0.72 63.36 56.16)" fill="#f8f4ea" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="92" height="120"/><path id="shape5" transform="matrix(0.72 0 0 0.72 57.6 31.68)" fill="#f8f4ea" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 36L54 0L108 36Z" sodipodi:nodetypes="cccc"/><circle id="shape6" transform="matrix(0.72 0 0 0.72 90.72 41.76)" r="8" cx="8" cy="8" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round"/><path id="shape7" fill="#e2b13c" fill-rule="evenodd" stroke="#000000" stroke-width="1.5" stroke-linecap="butt" stroke-linejoin="round" d="M93.6 2.88L99.36 2.88L99.36 7.2L103.68 7.2L103.68 10.8L99.36 10.8L99.36 17.28L93.6 17.28L93.6 10.8L89.28 10.8L89.28 7.2L93.6 7.2Z" sodipodi:nodetypes="ccccccccccccc"/><g id="group0" transform="matrix(0.72 0 0 0.72 -11.52 -24.48)" fill="none">
+  <rect id="shape8" transform="translate(112, 118)" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="10" height="110"/>
+  <rect id="shape9" transform="translate(132, 118)" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="10" height="110"/>
+  <rect id="shape10" transform="translate(158, 118)" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="10" height="110"/>
+  <rect id="shape11" transform="translate(178, 118)" fill="#ffffff" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="10" height="110"/>
+ </g><path id="shape12" transform="matrix(0.72 0 0 0.72 91.44 111.24)" fill="#7a4e2d" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M0 43.5L0 7.5C0 -2.5 14 -2.5 14 7.5L14 43.5Z" sodipodi:nodetypes="ccccc"/><g id="group1" transform="matrix(0.72 0 0 0.72 -11.52 -24.48)" fill="none">
+  <rect id="shape13" transform="translate(46, 146)" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="16" height="24"/>
+  <rect id="shape14" transform="translate(72, 146)" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="16" height="24"/>
+  <rect id="shape15" transform="translate(46, 190)" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="16" height="24"/>
+  <rect id="shape16" transform="translate(72, 190)" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="16" height="24"/>
+  <rect id="shape17" transform="translate(212, 146)" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="16" height="24"/>
+  <rect id="shape18" transform="translate(238, 146)" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="16" height="24"/>
+  <rect id="shape19" transform="translate(212, 190)" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="16" height="24"/>
+  <rect id="shape20" transform="translate(238, 190)" fill="#bfe3f2" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="16" height="24"/>
+ </g><rect id="shape21" transform="matrix(0.72 0 0 0.72 60.48 141.12)" fill="#b9b2a6" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" width="100" height="6"/>
 </svg>
