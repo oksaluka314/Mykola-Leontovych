@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="16 4 278 260" width="278" height="260">
+  <!-- Концертна зала (Карнегі-хол, 1922) -->
+  <g stroke="#000" stroke-width="2" stroke-linejoin="round">
+    <!-- зірки / ніч -->
+    <rect x="0" y="0" width="300" height="0" fill="none"/>
+    <!-- будівля -->
+    <rect x="40" y="96" width="220" height="150" fill="#b5533c"/>
+    <rect x="34" y="86" width="232" height="12" fill="#f3e3b5"/>
+    <rect x="34" y="150" width="232" height="8" fill="#f3e3b5"/>
+    <rect x="40" y="70" width="220" height="16" fill="#8a3a2a"/>
+    <!-- верхні вікна -->
+    <g fill="#f3e3b5">
+      <rect x="56" y="108" width="18" height="30"/><rect x="88" y="108" width="18" height="30"/>
+      <rect x="120" y="108" width="18" height="30"/><rect x="162" y="108" width="18" height="30"/>
+      <rect x="194" y="108" width="18" height="30"/><rect x="226" y="108" width="18" height="30"/>
+    </g>
+    <!-- арки входу -->
+    <g fill="#e2b13c">
+      <path d="M56 238 L56 192 C56 176 82 176 82 192 L82 238Z"/>
+      <path d="M96 238 L96 192 C96 176 122 176 122 192 L122 238Z"/>
+      <path d="M137 238 L137 192 C137 176 163 176 163 192 L163 238Z"/>
+      <path d="M178 238 L178 192 C178 176 204 176 204 192 L204 238Z"/>
+      <path d="M218 238 L218 192 C218 176 244 176 244 192 L244 238Z"/>
+    </g>
+    <!-- сходи -->
+    <rect x="30" y="244" width="240" height="8" fill="#b9b2a6"/>
+    <rect x="20" y="252" width="260" height="8" fill="#b9b2a6"/>
+    <!-- банер -->
+    <rect x="96" y="40" width="108" height="30" rx="4" fill="#203B60"/>
+  </g>
+  <text x="150" y="61" font-family="Georgia, serif" font-size="17" text-anchor="middle" fill="#ECF3E7">5.X.1922</text>
+  <!-- ноти -->
+  <g fill="#8C2C56" stroke="#000" stroke-width="1.5">
+    <ellipse cx="40" cy="44" rx="8" ry="6" transform="rotate(-20 40 44)"/>
+    <line x1="47" y1="41" x2="47" y2="12" stroke-width="2.5"/>
+    <path d="M47 12 C56 18 60 26 54 34" fill="none" stroke-width="2.5"/>
+    <ellipse cx="252" cy="40" rx="8" ry="6" transform="rotate(-20 252 40)"/>
+    <line x1="259" y1="37" x2="259" y2="8" stroke-width="2.5"/>
+    <ellipse cx="280" cy="50" rx="8" ry="6" transform="rotate(-20 280 50)"/>
+    <line x1="287" y1="47" x2="287" y2="18" stroke-width="2.5"/>
+    <line x1="259" y1="8" x2="287" y2="18" stroke-width="4"/>
+  </g>
+</svg>

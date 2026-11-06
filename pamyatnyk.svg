@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 34 276 250" width="276" height="250">
+  <!-- Пам'ятник-погруддя з квітами -->
+  <g stroke="#000" stroke-width="2" stroke-linejoin="round">
+    <!-- земля -->
+    <path fill="#5c9a3f" d="M16 262 C90 250 210 250 284 262 L284 280 L16 280Z"/>
+    <!-- постамент -->
+    <rect x="88" y="244" width="124" height="18" fill="#8e9aa8"/>
+    <rect x="104" y="150" width="92" height="96" fill="#b9b2a6"/>
+    <rect x="96" y="142" width="108" height="12" fill="#8e9aa8"/>
+    <rect x="116" y="178" width="68" height="38" fill="#f8f4ea"/>
+    <!-- погруддя -->
+    <path fill="#6b5b3e" d="M100 142 C100 118 120 106 150 106 C180 106 200 118 200 142Z"/>
+    <path fill="#6b5b3e" d="M136 110 L136 96 L164 96 L164 110Z"/>
+    <ellipse cx="150" cy="70" rx="26" ry="32" fill="#6b5b3e"/>
+    <!-- волосся і вуса -->
+    <path fill="#4a3e2a" d="M124 66 C122 38 178 36 176 66 C170 52 160 46 150 48 C138 46 128 54 124 66Z"/>
+    <path fill="none" stroke-width="2" d="M136 64 C140 61 144 61 147 64 M153 64 C156 61 160 61 164 64"/>
+    <path fill="#4a3e2a" d="M136 82 C142 78 158 78 164 82 C160 88 140 88 136 82Z"/>
+    <path fill="#4a3e2a" d="M140 86 C142 100 158 100 160 86Z"/>
+    <!-- комір вишиванки -->
+    <path fill="#8C2C56" d="M138 108 L150 128 L162 108Z"/>
+  </g>
+  <text x="150" y="194" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#203B60">М. Д.</text>
+  <text x="150" y="208" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#203B60">Леонтович</text>
+  <!-- квіти -->
+  <g stroke="#000" stroke-width="1.5">
+    <line x1="60" y1="262" x2="62" y2="226" stroke="#3e6e2a" stroke-width="3"/>
+    <line x1="76" y1="262" x2="80" y2="234" stroke="#3e6e2a" stroke-width="3"/>
+    <line x1="228" y1="262" x2="226" y2="228" stroke="#3e6e2a" stroke-width="3"/>
+    <line x1="244" y1="262" x2="240" y2="236" stroke="#3e6e2a" stroke-width="3"/>
+    <g fill="#d00000"><circle cx="62" cy="222" r="9"/><circle cx="226" cy="224" r="9"/></g>
+    <g fill="#e2b13c"><circle cx="80" cy="230" r="8"/><circle cx="240" cy="232" r="8"/></g>
+    <g fill="#2e2a26"><circle cx="62" cy="222" r="3"/><circle cx="226" cy="224" r="3"/></g>
+  </g>
+</svg>
