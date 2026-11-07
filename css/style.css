@@ -80,8 +80,6 @@ p { margin: 0 0 1em; }
   height: auto;
   aspect-ratio: 1;
   flex-shrink: 0;
-  background: var(--bg);
-  border-radius: 50%;
 }
 .brand__name {
   font-family: var(--font-head);
